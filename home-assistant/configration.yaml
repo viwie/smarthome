@@ -50,7 +50,7 @@ logbook:
 # Enables a map showing the location of tracked devices
 map:
 
-#MQTT Setup
+#MQTT Setup for dedicated Mqtt Broker
    broker: mqtt.intern
 
 #MQTT Sonoff Devices Setup
